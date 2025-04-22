@@ -15,3 +15,4 @@ def div(a, b):
     return a / b
 
 print("All functions work successfully")
+
